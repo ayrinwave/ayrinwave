@@ -1,9 +1,7 @@
 
-## Hi everyone! I'm a beginner programmer 
+## 🙋 Hi everyone! I'm a beginner programmer 
 ____
-- 📫 Reach me: ayrinwave@gmail.com
-- 🖥️ Courses I took: https://stepik.org/users/616084942/profile
-____
-Languages and Tools
+- 🌱 I’m currently learning Python🐍
+- :computer: Courses I took: https://stepik.org/users/616084942/profile
 ____
 - 📫 Reach me: ayrinwave@gmail.com
